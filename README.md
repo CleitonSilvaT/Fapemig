@@ -44,5 +44,8 @@ _Apresentar uma breve descrição da tecnologia_
 
 _Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação._
 
+---
 
+## Avaliações da Aplicação
 
+_Apresentar ferramentas utilizadas para avaliação da aplicação, bem como artefatos que comprovem seu uso._
