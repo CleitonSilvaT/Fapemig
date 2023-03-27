@@ -19,7 +19,7 @@
 
 ## Plano de Teste
 
-| **Ientificador** | 000 |
+| **Identificador** | 000 |
 | --- | --- |
 | **Necessidade** |  |
 | **Pré-Condição** |  |
